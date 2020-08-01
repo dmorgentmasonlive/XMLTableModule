@@ -1,0 +1,43 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "Customer Name": "Person 1",
+      "Customer Id": "1",
+      "Customer Email": "VD@mail.mail",
+      "Location": "USA",
+      "List of services": "Service 1",
+      "Date": "2020-06-16T05:00:00.000Z",
+      "Contact Person": "Person 1.5",
+      "Contact Person Email": "notarealemail@mail.mail",
+      "Website Link": "",
+      "Description": ""
+    },
+    {
+      "id": 2,
+      "Customer Name": "Person 2",
+      "Customer Id": "2",
+      "Customer Email": "CD@mail.mail",
+      "Location": "USA",
+      "List of services": "Service 2",
+      "Date": "",
+      "Contact Person": "Person 2.5",
+      "Contact Person Email": "notarealemail@mail.mail",
+      "Website Link": "",
+      "Description": ""
+    },
+    {
+      "Customer Name": "Person 3",
+      "Customer Id": "3",
+      "Customer Email": "LD@mail.mail",
+      "Location": "USA",
+      "List of services": "Service 3",
+      "Date": "2020-06-16T05:00:00.000Z",
+      "Contact Person": "Person 3.5",
+      "Contact Person Email": "",
+      "Description": "",
+      "Website Link": "",
+      "id": 3
+    }
+  ]
+}

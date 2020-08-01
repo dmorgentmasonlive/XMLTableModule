@@ -1,0 +1,8 @@
+<table>
+    <tr>
+        <th *ngFor = "let header of headerValues">{{header}}</th>
+    </tr>
+    <tr *ngFor = "let customer of values">
+        <td *ngFor = "let row of customer | keyvalue">{{row.value}}</td>
+    </tr>
+</table>
